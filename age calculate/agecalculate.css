@@ -1,0 +1,43 @@
+.container{
+    background-color: rgb(37, 18, 146);
+    padding: 13px;
+    margin: 175px;
+    margin-left: 275px;
+    height: 400px;
+    width: 400px;
+}
+.container h2{
+    color: white;
+    margin: 20px;
+    margin-left: 40px;
+    
+}
+.container label{
+    color: white;
+    margin-left: 50px;
+}
+.container input{
+    padding: 10px;
+    margin: 20px;
+    width: 160px;
+    /* margin-left: 50px; */
+}
+#calculation{
+    margin: 20px;
+   padding: 10px;
+   border: none;
+   margin-left: 150px;
+   background-color: white; color: rgb(37, 18, 146);
+}
+#calculation:hover{
+    color: rgb(248, 249, 252);
+    background-color: rgb(19, 81, 133);
+}
+/* .container button:hover{
+    background-color: beige;
+} */
+#output{
+    color: white;
+    margin: 40px;
+    margin-left: 60px;
+}
